@@ -1,20 +1,9 @@
-﻿<!--
-//*********************************************************
-//
-// Copyright (c) Microsoft. All rights reserved.
-// This code is licensed under the MIT License (MIT).
-// THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF
-// ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY
-// IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR
-// PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
-//
-//*********************************************************
--->
+﻿
 <Page x:ConnectionId='1' x:Name="swipe"
-    x:Class="Steps.MainPage"
+    x:Class="StepsCounter.MainPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:Steps"
+    xmlns:local="using:StepsCounter"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
@@ -56,10 +45,10 @@
                     <TextBlock x:ConnectionId='12'  Name="TotalStepsText" Text="{Binding TotalSteps}" TextAlignment="left" FontFamily="Assets/digital-7.ttf#Digital-7"/>
                 </Viewbox>
             </Grid>
-            <Grid x:ConnectionId='5' x:Name="StepCounters" Grid.Row="3">
+            <Grid x:ConnectionId='5' x:Name="StepCounters" Grid.Row="3" HorizontalAlignment="Right">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="Auto"></ColumnDefinition>
-                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
 
                 </Grid.ColumnDefinitions>
                 <Grid.RowDefinitions>
@@ -68,28 +57,28 @@
                     <RowDefinition Height="*"></RowDefinition>
                     <RowDefinition Height="*"></RowDefinition>
                 </Grid.RowDefinitions>
-                <Grid Grid.Row="0" Grid.Column="0">
+                <Grid Grid.Row="0" Grid.Column="0" VerticalAlignment="Center">
                     <TextBlock x:Uid="WalkingSteps" Text="_walking steps" FontSize="14" />
                 </Grid>
-                <Grid Grid.Row="0" Grid.Column="1">
+                <Grid Grid.Row="0" Grid.Column="1" VerticalAlignment="Center">
                     <TextBlock x:ConnectionId='11' Name="WalkingStepsText" Text="{Binding TotalWalkingSteps}" Margin="5,0,0,0" VerticalAlignment="Center" FontSize="14" FontFamily="Assets/digital-7.ttf#Digital-7"/>
                 </Grid>
-                <Grid Grid.Row="1" Grid.Column="0">
+                <Grid Grid.Row="1" Grid.Column="0" VerticalAlignment="Center">
                     <TextBlock x:Uid="RunningSteps" Text="_running steps" FontSize="14" />
                 </Grid>
-                <Grid Grid.Row="1" Grid.Column="1">
+                <Grid Grid.Row="1" Grid.Column="1" VerticalAlignment="Center">
                     <TextBlock x:ConnectionId='10' Name="RunningStepsText" Text="{Binding TotalRunningSteps}" Margin="5,0,0,0" VerticalAlignment="Center" FontSize="14" FontFamily="Assets/digital-7.ttf#Digital-7"/>
                 </Grid>
-                <Grid Grid.Row="2" Grid.Column="0">
+                <Grid Grid.Row="2" Grid.Column="0" VerticalAlignment="Center">
                     <TextBlock x:Uid="Calories" Text="_calories" FontSize="14" />
                 </Grid>
-                <Grid Grid.Row="2" Grid.Column="1">
+                <Grid Grid.Row="2" Grid.Column="1" VerticalAlignment="Center">
                     <TextBlock x:ConnectionId='9' Name="CaloriesText" Text="{Binding TotalCalories}" Margin="5,0,0,0" VerticalAlignment="Center" FontSize="14" FontFamily="Assets/digital-7.ttf#Digital-7"/>
                 </Grid>
-                <Grid Grid.Row="3" Grid.Column="0">
+                <Grid Grid.Row="3" Grid.Column="0" VerticalAlignment="Center">
                     <TextBlock x:Uid="Distance" Text="_distance" FontSize="14" />
                 </Grid>
-                <Grid Grid.Row="3" Grid.Column="1">
+                <Grid Grid.Row="3" Grid.Column="1" VerticalAlignment="Center">
                     <TextBlock x:ConnectionId='8' Name="DistanceText" Text="{Binding TotalDistance}" Margin="5,0,0,0" VerticalAlignment="Center" FontSize="14" FontFamily="Assets/digital-7.ttf#Digital-7"/>
                 </Grid>
             </Grid>

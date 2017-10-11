@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Steps
+namespace StepsCounter
 {
     partial class App : global::Windows.UI.Xaml.Application
     {

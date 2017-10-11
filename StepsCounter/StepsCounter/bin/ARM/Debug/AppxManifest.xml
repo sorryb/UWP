@@ -22,7 +22,7 @@
     <Resource Language="RO-RO" />
   </Resources>
   <Applications>
-    <Application Id="App" Executable="Steps.exe" EntryPoint="Steps.App">
+    <Application Id="App" Executable="StepsCounter.exe" EntryPoint="Steps.App">
       <uap:VisualElements DisplayName="Steps – Count steps" Square150x150Logo="assets\Medium\Medium150x150Logo.png" Square44x44Logo="assets\AppList\AppList44x44Logo.png" Description="Steps for counting steps or running steps." BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="assets\Wide\Wide310x150Logo.png" Square71x71Logo="assets\Small\Small71x71Logo.png" Square310x310Logo="assets\Large\Large310x310Logo.png" ShortName="Steps Counter">
           <uap:ShowNameOnTiles>
@@ -73,52 +73,52 @@
     <Extension Category="windows.activatableClass.inProcessServer">
       <InProcessServer>
         <Path>Lumia.Sense.Testing.dll</Path>
-        <ActivatableClass ActivatableClassId="Lumia.Sense.Testing.StepCounterSimulator" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Lumia.Sense.Testing.ActivityMonitorSimulator" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Lumia.Sense.Testing.TrackPointMonitorSimulator" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Lumia.Sense.Testing.PlaceMonitorSimulator" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Lumia.Sense.Testing.SenseRecorder" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Lumia.Sense.Testing.ActivityMonitorSimulator" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Lumia.Sense.Testing.SenseRecording" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Lumia.Sense.Testing.SenseRecorder" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Lumia.Sense.Testing.StepCounterSimulator" ThreadingModel="both" />
       </InProcessServer>
     </Extension>
     <Extension Category="windows.activatableClass.inProcessServer">
       <InProcessServer>
         <Path>Lumia.Internal.HMBClient.dll</Path>
         <ActivatableClass ActivatableClassId="Lumia.Internal.HMBClient.HMBMessageEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Lumia.Internal.HMBClient.HMBMessage" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Lumia.Internal.HMBClient.HMBServiceClient" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Lumia.Internal.HMBClient.HMBMessage" ThreadingModel="both" />
       </InProcessServer>
     </Extension>
     <Extension Category="windows.activatableClass.inProcessServer">
       <InProcessServer>
         <Path>Lumia.Sense.dll</Path>
-        <ActivatableClass ActivatableClassId="Lumia.Sense.AltitudeMeterReading" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Lumia.Sense.StepCounterReading" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Lumia.Sense.Place" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Lumia.Sense.SenseHelper" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Lumia.Sense.StepCount" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Lumia.Sense.StepCounter" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Lumia.Sense.TrackPoint" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Lumia.Sense.ActivityMonitorReading" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Lumia.Sense.AltitudeMeterReading" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Lumia.Sense.MotionDataSettings" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Lumia.Sense.StepCount" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Lumia.Sense.SenseHelper" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Lumia.Sense.PlaceMonitor" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Lumia.Sense.StepCounter" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Lumia.Sense.AltitudeMeter" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Lumia.Sense.SenseTrigger" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Lumia.Sense.TrackPointMonitor" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Lumia.Sense.ActivityMonitor" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Lumia.Sense.PlaceMonitor" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Lumia.Sense.MotionDataSettings" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Lumia.Sense.SenseTrigger" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Lumia.Sense.Place" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Lumia.Sense.ActivityMonitorReading" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Lumia.Sense.StepCounterReading" ThreadingModel="both" />
       </InProcessServer>
     </Extension>
   </Extensions>
   <build:Metadata>
     <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v5.0" />
-    <build:Item Name="VisualStudio" Version="14.0" />
-    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Enterprise 2015" />
-    <build:Item Name="OperatingSystem" Version="10.0.10586.0 (th2_release.151029-1700)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.24720.0" />
+    <build:Item Name="VisualStudio" Version="15.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Enterprise 2017" />
+    <build:Item Name="OperatingSystem" Version="10.0.15063.0 (WinBuild.160101.0800)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="15.0.26720.2" />
     <build:Item Name="ProjectGUID" Value="{F5356085-5ED1-4855-BBCD-3A4E8F9A1B0A}" />
     <build:Item Name="OptimizingToolset" Value="None" />
     <build:Item Name="TargetRuntime" Value="Managed" />
-    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="14.0.24720.0" />
-    <build:Item Name="MakePri.exe" Version="10.0.10586.212 (th2_release_sec.160328-1908)" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="15.0.26720.2" />
+    <build:Item Name="MakePri.exe" Version="10.0.14393.33 (rs1_release_sec.160727-1952)" />
   </build:Metadata>
 </Package>

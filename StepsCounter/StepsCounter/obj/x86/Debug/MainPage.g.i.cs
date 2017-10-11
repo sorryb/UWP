@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Steps
+namespace StepsCounter
 {
     partial class MainPage : global::Windows.UI.Xaml.Controls.Page
     {

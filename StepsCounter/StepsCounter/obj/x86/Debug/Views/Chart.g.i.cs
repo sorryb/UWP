@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Steps.Views
+namespace StepsCounter.Views
 {
     partial class Chart : global::Windows.UI.Xaml.Controls.UserControl
     {

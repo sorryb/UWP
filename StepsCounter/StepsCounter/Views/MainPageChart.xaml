@@ -1,23 +1,11 @@
-﻿<!--
-//*********************************************************
-//
-// Copyright (c) Microsoft. All rights reserved.
-// This code is licensed under the MIT License (MIT).
-// THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF
-// ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY
-// IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR
-// PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
-//
-//*********************************************************
--->
-<Page
+﻿<Page
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:Steps"
+    xmlns:local="using:StepsCounter"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:Views="using:Steps.Views" x:Name="swipe"
-    x:Class="Steps.MainPageChart"
+    xmlns:Views="using:StepsCounter.Views" x:Name="swipe"
+    x:Class="StepsCounter.MainPageChart"
     mc:Ignorable="d">
     <Page.Resources>
         <local:Half x:Key="Half"/>

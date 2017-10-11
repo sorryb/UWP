@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace Steps
+namespace StepsCounter
 {
 #if !DISABLE_XAML_GENERATED_MAIN
     /// <summary>

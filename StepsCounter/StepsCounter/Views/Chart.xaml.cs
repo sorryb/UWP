@@ -15,7 +15,7 @@ using Windows.UI.Xaml.Navigation;
 
 // The User Control item template is documented at http://go.microsoft.com/fwlink/?LinkId=234236
 //http://social.technet.microsoft.com/wiki/contents/articles/32795.uwp-creating-user-control.aspx
-namespace Steps.Views
+namespace StepsCounter.Views
 {
     public sealed partial class Chart : UserControl
     {

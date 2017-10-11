@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Steps
+namespace StepsCounter
 {
     partial class MainPageChart : global::Windows.UI.Xaml.Controls.Page
     {
@@ -35,7 +35,7 @@ namespace Steps
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 14.0.0.0")]
         private global::Windows.UI.Xaml.Controls.Grid ChartContainer; 
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 14.0.0.0")]
-        private global::Steps.Views.Chart Chart; 
+        private global::StepsCounter.Views.Chart Chart; 
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 14.0.0.0")]
         private global::Windows.UI.Xaml.Controls.TextBlock DistanceText; 
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 14.0.0.0")]

@@ -17,3 +17,23 @@ G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\BackgroundTasks\obj\ARM\Debug
 G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\BackgroundTasks\obj\ARM\Debug\qualifiers.txt.intermediate
 G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\BackgroundTasks\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
 G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\BackgroundTasks\obj\ARM\Debug\BackgroundTasks.csprojResolveAssemblyReference.cache
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\bin\ARM\Debug\BackgroundTasks.winmd
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\bin\ARM\Debug\BackgroundTasks.pdb
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\bin\ARM\Debug\BackgroundTasks.pri
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\BackgroundTasks.csprojResolveAssemblyReference.cache
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\BackgroundTasks.csproj.CoreCompileInputs.cache
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\BackgroundTasks.winmd
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\BackgroundTasks.pdb
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\BackgroundTasks.winmdobj
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\BackgroundTasks.compile.pdb
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\priconfig.xml
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\priconfig.xml.intermediate
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\layout.resfiles
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\layout.resfiles.intermediate
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\resources.resfiles
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\resources.resfiles.intermediate
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\pri.resfiles
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\pri.resfiles.intermediate
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\qualifiers.txt
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\qualifiers.txt.intermediate
+H:\Kits\Kit DotNET\UWP\StepsCounter\BackgroundTasks\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt

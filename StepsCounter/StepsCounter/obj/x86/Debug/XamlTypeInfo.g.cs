@@ -9,11 +9,11 @@
 
 
 
-namespace Steps
+namespace StepsCounter
 {
     public partial class App : global::Windows.UI.Xaml.Markup.IXamlMetadataProvider
     {
-    private global::Steps.Steps_XamlTypeInfo.XamlTypeInfoProvider _provider;
+    private global::StepsCounter.Steps_XamlTypeInfo.XamlTypeInfoProvider _provider;
 
         /// <summary>
         /// GetXamlType(Type)
@@ -22,7 +22,7 @@ namespace Steps
         {
             if(_provider == null)
             {
-                _provider = new global::Steps.Steps_XamlTypeInfo.XamlTypeInfoProvider();
+                _provider = new global::StepsCounter.Steps_XamlTypeInfo.XamlTypeInfoProvider();
             }
             return _provider.GetXamlTypeByType(type);
         }
@@ -34,7 +34,7 @@ namespace Steps
         {
             if(_provider == null)
             {
-                _provider = new global::Steps.Steps_XamlTypeInfo.XamlTypeInfoProvider();
+                _provider = new global::StepsCounter.Steps_XamlTypeInfo.XamlTypeInfoProvider();
             }
             return _provider.GetXamlTypeByName(fullName);
         }
@@ -49,7 +49,7 @@ namespace Steps
     }
 }
 
-namespace Steps.Steps_XamlTypeInfo
+namespace StepsCounter.Steps_XamlTypeInfo
 {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 14.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -142,13 +142,13 @@ namespace Steps.Steps_XamlTypeInfo
             _typeNameTable[6] = "Steps.MainPage";
 
             _typeTable = new global::System.Type[7];
-            _typeTable[0] = typeof(global::Steps.AboutPage);
+            _typeTable[0] = typeof(global::StepsCounter.AboutPage);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[3] = typeof(global::Steps.Half);
+            _typeTable[3] = typeof(global::StepsCounter.Half);
             _typeTable[4] = typeof(global::System.Object);
-            _typeTable[5] = typeof(global::Steps.Margin);
-            _typeTable[6] = typeof(global::Steps.MainPage);
+            _typeTable[5] = typeof(global::StepsCounter.Margin);
+            _typeTable[6] = typeof(global::StepsCounter.MainPage);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -183,15 +183,15 @@ namespace Steps.Steps_XamlTypeInfo
             return -1;
         }
 
-        private object Activate_0_AboutPage() { return new global::Steps.AboutPage(); }
-        private object Activate_3_Half() { return new global::Steps.Half(); }
-        private object Activate_5_Margin() { return new global::Steps.Margin(); }
-        private object Activate_6_MainPage() { return new global::Steps.MainPage(); }
+        private object Activate_0_AboutPage() { return new global::StepsCounter.AboutPage(); }
+        private object Activate_3_Half() { return new global::StepsCounter.Half(); }
+        private object Activate_5_Margin() { return new global::StepsCounter.Margin(); }
+        private object Activate_6_MainPage() { return new global::StepsCounter.MainPage(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
-            global::Steps.Steps_XamlTypeInfo.XamlSystemBaseType xamlType = null;
-            global::Steps.Steps_XamlTypeInfo.XamlUserType userType;
+            global::StepsCounter.Steps_XamlTypeInfo.XamlSystemBaseType xamlType = null;
+            global::StepsCounter.Steps_XamlTypeInfo.XamlUserType userType;
             string typeName = _typeNameTable[typeIndex];
             global::System.Type type = _typeTable[typeIndex];
 
@@ -199,40 +199,40 @@ namespace Steps.Steps_XamlTypeInfo
             {
 
             case 0:   //  Steps.AboutPage
-                userType = new global::Steps.Steps_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType = new global::StepsCounter.Steps_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_0_AboutPage;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
             case 1:   //  Windows.UI.Xaml.Controls.Page
-                xamlType = new global::Steps.Steps_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                xamlType = new global::StepsCounter.Steps_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
             case 2:   //  Windows.UI.Xaml.Controls.UserControl
-                xamlType = new global::Steps.Steps_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                xamlType = new global::StepsCounter.Steps_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
             case 3:   //  Steps.Half
-                userType = new global::Steps.Steps_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType = new global::StepsCounter.Steps_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
                 userType.Activator = Activate_3_Half;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
             case 4:   //  Object
-                xamlType = new global::Steps.Steps_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                xamlType = new global::StepsCounter.Steps_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
             case 5:   //  Steps.Margin
-                userType = new global::Steps.Steps_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType = new global::StepsCounter.Steps_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
                 userType.Activator = Activate_5_Margin;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
             case 6:   //  Steps.MainPage
-                userType = new global::Steps.Steps_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType = new global::StepsCounter.Steps_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_6_MainPage;
                 userType.SetIsLocalType();
                 xamlType = userType;
@@ -245,7 +245,7 @@ namespace Steps.Steps_XamlTypeInfo
 
         private global::Windows.UI.Xaml.Markup.IXamlMember CreateXamlMember(string longMemberName)
         {
-            global::Steps.Steps_XamlTypeInfo.XamlMember xamlMember = null;
+            global::StepsCounter.Steps_XamlTypeInfo.XamlMember xamlMember = null;
             // No Local Properties
             return xamlMember;
         }
@@ -300,9 +300,9 @@ namespace Steps.Steps_XamlTypeInfo
 
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 14.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    internal class XamlUserType : global::Steps.Steps_XamlTypeInfo.XamlSystemBaseType
+    internal class XamlUserType : global::StepsCounter.Steps_XamlTypeInfo.XamlSystemBaseType
     {
-        global::Steps.Steps_XamlTypeInfo.XamlTypeInfoProvider _provider;
+        global::StepsCounter.Steps_XamlTypeInfo.XamlTypeInfoProvider _provider;
         global::Windows.UI.Xaml.Markup.IXamlType _baseType;
         bool _isArray;
         bool _isMarkupExtension;
@@ -316,7 +316,7 @@ namespace Steps.Steps_XamlTypeInfo
         global::System.Collections.Generic.Dictionary<string, string> _memberNames;
         global::System.Collections.Generic.Dictionary<string, object> _enumValues;
 
-        public XamlUserType(global::Steps.Steps_XamlTypeInfo.XamlTypeInfoProvider provider, string fullName, global::System.Type fullType, global::Windows.UI.Xaml.Markup.IXamlType baseType)
+        public XamlUserType(global::StepsCounter.Steps_XamlTypeInfo.XamlTypeInfoProvider provider, string fullName, global::System.Type fullType, global::Windows.UI.Xaml.Markup.IXamlType baseType)
             :base(fullName, fullType)
         {
             _provider = provider;
@@ -508,7 +508,7 @@ namespace Steps.Steps_XamlTypeInfo
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     internal class XamlMember : global::Windows.UI.Xaml.Markup.IXamlMember
     {
-        global::Steps.Steps_XamlTypeInfo.XamlTypeInfoProvider _provider;
+        global::StepsCounter.Steps_XamlTypeInfo.XamlTypeInfoProvider _provider;
         string _name;
         bool _isAttachable;
         bool _isDependencyProperty;
@@ -517,7 +517,7 @@ namespace Steps.Steps_XamlTypeInfo
         string _typeName;
         string _targetTypeName;
 
-        public XamlMember(global::Steps.Steps_XamlTypeInfo.XamlTypeInfoProvider provider, string name, string typeName)
+        public XamlMember(global::StepsCounter.Steps_XamlTypeInfo.XamlTypeInfoProvider provider, string name, string typeName)
         {
             _name = name;
             _typeName = typeName;
