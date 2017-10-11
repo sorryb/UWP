@@ -1,1 +1,1 @@
-Start application
+Start application by Microsoft Sample.
