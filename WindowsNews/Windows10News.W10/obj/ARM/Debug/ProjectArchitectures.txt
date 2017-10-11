@@ -1,0 +1,1 @@
+G:\Kits\Kit DotNET\Windows 10\MyWork\Win10NewsApp\Windows10News.W10\Windows10News.W10.csproj;arm

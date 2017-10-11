@@ -1,0 +1,53 @@
+c:\users\houssem\documents\visual studio 2012\Projects\MyCalculatorv1\MyCalculatorv1\bin\Debug\MyCalculatorv1.exe.config
+c:\users\houssem\documents\visual studio 2012\Projects\MyCalculatorv1\MyCalculatorv1\bin\Debug\MyCalculatorv1.exe
+c:\users\houssem\documents\visual studio 2012\Projects\MyCalculatorv1\MyCalculatorv1\bin\Debug\MyCalculatorv1.pdb
+c:\users\houssem\documents\visual studio 2012\Projects\MyCalculatorv1\MyCalculatorv1\obj\Debug\MyCalculatorv1.csprojResolveAssemblyReference.cache
+c:\users\houssem\documents\visual studio 2012\Projects\MyCalculatorv1\MyCalculatorv1\obj\Debug\MainWindow.baml
+c:\users\houssem\documents\visual studio 2012\Projects\MyCalculatorv1\MyCalculatorv1\obj\Debug\MainWindow.g.cs
+c:\users\houssem\documents\visual studio 2012\Projects\MyCalculatorv1\MyCalculatorv1\obj\Debug\App.g.cs
+c:\users\houssem\documents\visual studio 2012\Projects\MyCalculatorv1\MyCalculatorv1\obj\Debug\MyCalculatorv1_MarkupCompile.cache
+c:\users\houssem\documents\visual studio 2012\Projects\MyCalculatorv1\MyCalculatorv1\obj\Debug\MyCalculatorv1.g.resources
+c:\users\houssem\documents\visual studio 2012\Projects\MyCalculatorv1\MyCalculatorv1\obj\Debug\MyCalculatorv1.Properties.Resources.resources
+c:\users\houssem\documents\visual studio 2012\Projects\MyCalculatorv1\MyCalculatorv1\obj\Debug\MyCalculatorv1.csproj.GenerateResource.Cache
+c:\users\houssem\documents\visual studio 2012\Projects\MyCalculatorv1\MyCalculatorv1\obj\Debug\MyCalculatorv1.exe
+c:\users\houssem\documents\visual studio 2012\Projects\MyCalculatorv1\MyCalculatorv1\obj\Debug\MyCalculatorv1.pdb
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\bin\Debug\MyCalculatorv1.exe.config
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.exe
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.pdb
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\bin\Debug\MyCalculatorv1.exe
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\bin\Debug\MyCalculatorv1.pdb
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.csprojResolveAssemblyReference.cache
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MainWindow.baml
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MainWindow.g.cs
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\App.g.cs
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1_MarkupCompile.cache
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.g.resources
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.Properties.Resources.resources
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.csproj.GenerateResource.Cache
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1_MarkupCompile.lref
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\App.baml
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\About.baml
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\About.g.cs
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\CalculatorButtons.g.cs
+E:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\CalculatorButtons.baml
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\bin\Debug\MyCalculatorv1.exe.config
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\bin\Debug\MyCalculatorv1.exe
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\bin\Debug\MyCalculatorv1.pdb
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.csprojResolveAssemblyReference.cache
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\About.baml
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\App.baml
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\About.g.cs
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MainWindow.g.cs
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\CalculatorButtons.g.cs
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\App.g.cs
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1_MarkupCompile.cache
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1_MarkupCompile.lref
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MainWindow.baml
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\CalculatorButtons.baml
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.g.resources
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.Properties.Resources.resources
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.csproj.GenerateResource.Cache
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.exe
+G:\Kits\Kit DotNET\Windows 10\Simple WPF XAML Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.pdb

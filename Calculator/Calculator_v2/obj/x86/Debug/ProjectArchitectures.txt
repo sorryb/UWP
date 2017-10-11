@@ -1,0 +1,1 @@
+D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\Calculator_v2.csproj;x86

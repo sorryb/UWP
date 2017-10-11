@@ -1,0 +1,12 @@
+﻿<Window x:Class="MyCalculatorv1.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="{Binding Width}" Height="300" Width="300" x:Name="window" DataContext="{Binding ElementName=window}">
+    <Grid >
+        <TextBlock TextOptions.TextRenderingMode="Grayscale" HorizontalAlignment="Left" Height="103" Margin="22,10,3,0" TextWrapping="Wrap" Text="The Contoso University sample web application demonstrates how to create ASP.NET MVC 5 applications using the Entity Framework 6 Code First and Visual Studio 2013. For information about the tutorial series, see the first tutorial in the series." VerticalAlignment="Top" Width="248"/>
+        <StackPanel HorizontalAlignment="Left" Height="104" Margin="22,140,0,0" VerticalAlignment="Top" Width="248">
+            <CheckBox Content="{Binding Mode=OneWay, Source={StaticResource strWindowTitle}}" HorizontalAlignment="Left" Height="20" Margin="10,0,0,0" Width="88"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

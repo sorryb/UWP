@@ -1,0 +1,53 @@
+﻿<Window x:Class="MyCalculatorv1.CalculatorButtons"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:calc="clr-namespace:MyCalculatorv1.ViewModel"
+        Title="{Binding Path=Title}" Height="300" Width="300" x:Name="calculatorButtons" >
+    <Window.DataContext>
+        <calc:CalculatorViewModel x:Name="CalculatorViewModel"/>
+    </Window.DataContext>
+    <Grid>
+         <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+
+
+            <Button x:Name="Delete" Command="{Binding Path=Delete}" >Del</Button>
+            <Button x:Name="Recording" Grid.Column="1">R</Button>
+            <Button Grid.Column="2" x:Name="Offline" Command="{Binding Path=ShutDown}" Grid.ColumnSpan="2">Off</Button>
+            <Viewbox  Grid.Column="4" Grid.RowSpan="3" Stretch="Uniform">
+                    <TextBlock  TextWrapping="Wrap" x:Name="DisplayResultTextBox" Text="{Binding Path=ResultValue, Mode=TwoWay}" >
+                    </TextBlock>
+            </Viewbox>
+            <Button                 Grid.Row="1" Command="{Binding Path=PressNumber}" CommandParameter="7">7</Button>
+            <Button Grid.Column="1" Grid.Row="1" Command="{Binding Path=PressNumber}" CommandParameter="8">8</Button>
+            <Button Grid.Column="2" Grid.Row="1" Command="{Binding Path=PressNumber}" CommandParameter="9">9</Button>
+            <Button Grid.Column="3" Grid.Row="1" Command="{Binding Path=Substract}" CommandParameter="/">/</Button>
+
+            <Button                 Grid.Row="2" Command="{Binding Path=PressNumber}" CommandParameter="8">4</Button>
+            <Button Grid.Column="1" Grid.Row="2" Command="{Binding Path=PressNumber}" CommandParameter="5">5</Button>
+            <Button Grid.Column="2" Grid.Row="2" Command="{Binding Path=PressNumber}" CommandParameter="6">6</Button>
+            <Button Grid.Column="3" Grid.Row="2" Command="{Binding Path=Multiply}" CommandParameter="*">*</Button>
+
+            <Button                 Grid.Row="3" Command="{Binding Path=PressNumber}" CommandParameter="1">1</Button>
+            <Button Grid.Column="1" Grid.Row="3" Command="{Binding Path=PressNumber}" CommandParameter="2">2</Button>
+            <Button Grid.Column="2" Grid.Row="3" Command="{Binding Path=PressNumber}" CommandParameter="3">3</Button>
+            <Button Grid.Column="3" Grid.Row="3" Command="{Binding Path=Difference}" CommandParameter="-">-</Button>
+
+            <Button                 Grid.Row="4" Command="{Binding Path=PressNumber}" CommandParameter="0">0</Button>
+            <Button Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="4" Command="{Binding Path=Result}" CommandParameter="{Binding ElementName=DisplayResultTextBox}">=</Button>
+            <Button Grid.Column="3" Grid.Row="4" Command="{Binding Path=Sum}" CommandParameter="+">+</Button>
+            
+    </Grid>
+    </Window>

@@ -1,0 +1,572 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SBURTOIU</Machine>
+    <WindowsUser>sburtoiu</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>a4c455f3-6aa0-45b0-a481-590888dc8023</PackageIdentityName>
+    <IntermediateOutputPath>D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>59683240AC5E652F477D267D75D256A78745E60DB1AD8464A840D8C6E4C59CC6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a4c455f3-6aa0-45b0-a481-590888dc8023_1.0.0.0_x86__gmnrhdd2m1mcc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a4c455f3-6aa0-45b0-a481-590888dc8023_gmnrhdd2m1mcc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a4c455f3-6aa0-45b0-a481-590888dc8023</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=sburtoiu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-26T15:10:23.256</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+      <Modified>2015-11-26T14:47:18.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-08-27T08:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-27T08:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-27T08:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-27T08:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-27T08:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-27T08:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-27T08:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Calculator_v2.exe">
+      <PackagePath>Calculator_v2.exe</PackagePath>
+      <Modified>2015-11-26T15:10:23.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Calculator_v2.xr.xml">
+      <PackagePath>Calculator_v2.xr.xml</PackagePath>
+      <Modified>2015-11-26T15:01:39.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+      <Modified>2015-11-24T09:04:14.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\entrypoint\Calculator_v2.exe">
+      <PackagePath>entrypoint\Calculator_v2.exe</PackagePath>
+      <Modified>2015-11-26T15:10:17.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
+      <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
+      <Modified>2015-11-24T09:03:48.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
+      <PackagePath>Microsoft.ApplicationInsights.Extensibility.Windows.dll</PackagePath>
+      <Modified>2015-11-24T09:03:49.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll">
+      <PackagePath>Microsoft.ApplicationInsights.PersistenceChannel.dll</PackagePath>
+      <Modified>2015-11-24T09:03:49.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Microsoft.CSharp.dll">
+      <PackagePath>Microsoft.CSharp.dll</PackagePath>
+      <Modified>2015-11-24T09:03:59.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Microsoft.VisualBasic.dll">
+      <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
+      <Modified>2015-11-24T09:03:57.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll">
+      <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
+      <Modified>2015-11-24T09:03:52.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2015-11-26T14:47:03.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-26T15:10:20.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.AppContext.dll">
+      <PackagePath>System.AppContext.dll</PackagePath>
+      <Modified>2015-11-24T09:03:57.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Collections.Concurrent.dll">
+      <PackagePath>System.Collections.Concurrent.dll</PackagePath>
+      <Modified>2015-11-24T09:03:57.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Collections.dll">
+      <PackagePath>System.Collections.dll</PackagePath>
+      <Modified>2015-11-24T09:03:57.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Collections.Immutable.dll">
+      <PackagePath>System.Collections.Immutable.dll</PackagePath>
+      <Modified>2015-11-24T09:03:59.549</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Collections.NonGeneric.dll">
+      <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
+      <Modified>2015-11-24T09:04:10.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Collections.Specialized.dll">
+      <PackagePath>System.Collections.Specialized.dll</PackagePath>
+      <Modified>2015-11-24T09:04:07.392</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll">
+      <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
+      <Modified>2015-11-24T09:03:57.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll">
+      <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.ComponentModel.dll">
+      <PackagePath>System.ComponentModel.dll</PackagePath>
+      <Modified>2015-11-24T09:03:57.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll">
+      <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
+      <Modified>2015-11-24T09:03:52.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Core.dll">
+      <PackagePath>System.Core.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Data.Common.dll">
+      <PackagePath>System.Data.Common.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll">
+      <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
+      <Modified>2015-11-24T09:03:52.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Diagnostics.Debug.dll">
+      <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
+      <Modified>2015-11-24T09:03:59.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll">
+      <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
+      <Modified>2015-11-24T09:03:52.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Diagnostics.Tools.dll">
+      <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
+      <Modified>2015-11-24T09:03:59.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll">
+      <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
+      <Modified>2015-11-24T09:03:59.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.dll">
+      <PackagePath>System.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Dynamic.Runtime.dll">
+      <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
+      <Modified>2015-11-24T09:04:00.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Globalization.Calendars.dll">
+      <PackagePath>System.Globalization.Calendars.dll</PackagePath>
+      <Modified>2015-11-24T09:03:59.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Globalization.dll">
+      <PackagePath>System.Globalization.dll</PackagePath>
+      <Modified>2015-11-24T09:03:59.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Globalization.Extensions.dll">
+      <PackagePath>System.Globalization.Extensions.dll</PackagePath>
+      <Modified>2015-11-24T09:03:59.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.IO.Compression.dll">
+      <PackagePath>System.IO.Compression.dll</PackagePath>
+      <Modified>2015-11-24T09:03:59.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll">
+      <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
+      <Modified>2015-11-24T09:03:59.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.IO.dll">
+      <PackagePath>System.IO.dll</PackagePath>
+      <Modified>2015-11-24T09:03:59.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.IO.FileSystem.dll">
+      <PackagePath>System.IO.FileSystem.dll</PackagePath>
+      <Modified>2015-11-24T09:04:00.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll">
+      <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
+      <Modified>2015-11-24T09:03:59.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll">
+      <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll">
+      <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
+      <Modified>2015-11-24T09:03:59.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Linq.dll">
+      <PackagePath>System.Linq.dll</PackagePath>
+      <Modified>2015-11-24T09:04:00.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Linq.Expressions.dll">
+      <PackagePath>System.Linq.Expressions.dll</PackagePath>
+      <Modified>2015-11-24T09:04:04.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Linq.Parallel.dll">
+      <PackagePath>System.Linq.Parallel.dll</PackagePath>
+      <Modified>2015-11-24T09:04:02.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Linq.Queryable.dll">
+      <PackagePath>System.Linq.Queryable.dll</PackagePath>
+      <Modified>2015-11-24T09:04:02.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Net.dll">
+      <PackagePath>System.Net.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Net.Http.dll">
+      <PackagePath>System.Net.Http.dll</PackagePath>
+      <Modified>2015-11-24T09:04:05.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Net.Http.Rtc.dll">
+      <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Net.NetworkInformation.dll">
+      <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
+      <Modified>2015-11-24T09:04:02.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Net.Primitives.dll">
+      <PackagePath>System.Net.Primitives.dll</PackagePath>
+      <Modified>2015-11-24T09:04:02.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Net.Requests.dll">
+      <PackagePath>System.Net.Requests.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Net.Sockets.dll">
+      <PackagePath>System.Net.Sockets.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll">
+      <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Numerics.dll">
+      <PackagePath>System.Numerics.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Numerics.Vectors.dll">
+      <PackagePath>System.Numerics.Vectors.dll</PackagePath>
+      <Modified>2015-11-24T09:04:02.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll">
+      <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.ObjectModel.dll">
+      <PackagePath>System.ObjectModel.dll</PackagePath>
+      <Modified>2015-11-24T09:04:02.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll">
+      <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
+      <Modified>2015-11-24T09:03:51.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Private.Networking.dll">
+      <PackagePath>System.Private.Networking.dll</PackagePath>
+      <Modified>2015-11-24T09:04:10.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Private.ServiceModel.dll">
+      <PackagePath>System.Private.ServiceModel.dll</PackagePath>
+      <Modified>2015-11-24T09:03:55.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Private.Uri.dll">
+      <PackagePath>System.Private.Uri.dll</PackagePath>
+      <Modified>2015-11-24T09:03:52.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Reflection.Context.dll">
+      <PackagePath>System.Reflection.Context.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll">
+      <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
+      <Modified>2015-11-24T09:04:04.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Reflection.dll">
+      <PackagePath>System.Reflection.dll</PackagePath>
+      <Modified>2015-11-24T09:04:02.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Reflection.Emit.dll">
+      <PackagePath>System.Reflection.Emit.dll</PackagePath>
+      <Modified>2015-11-24T09:04:15.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll">
+      <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
+      <Modified>2015-11-24T09:04:14.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll">
+      <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
+      <Modified>2015-11-24T09:04:14.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Reflection.Extensions.dll">
+      <PackagePath>System.Reflection.Extensions.dll</PackagePath>
+      <Modified>2015-11-24T09:04:02.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Reflection.Metadata.dll">
+      <PackagePath>System.Reflection.Metadata.dll</PackagePath>
+      <Modified>2015-11-24T09:04:04.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Reflection.Primitives.dll">
+      <PackagePath>System.Reflection.Primitives.dll</PackagePath>
+      <Modified>2015-11-24T09:04:02.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll">
+      <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
+      <Modified>2015-11-24T09:04:02.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Resources.ResourceManager.dll">
+      <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
+      <Modified>2015-11-24T09:04:02.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2015-11-24T09:04:05.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Runtime.Extensions.dll">
+      <PackagePath>System.Runtime.Extensions.dll</PackagePath>
+      <Modified>2015-11-24T09:04:04.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Runtime.Handles.dll">
+      <PackagePath>System.Runtime.Handles.dll</PackagePath>
+      <Modified>2015-11-24T09:04:05.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Runtime.InteropServices.dll">
+      <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
+      <Modified>2015-11-24T09:04:06.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-11-24T09:03:55.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Runtime.Numerics.dll">
+      <PackagePath>System.Runtime.Numerics.dll</PackagePath>
+      <Modified>2015-11-24T09:04:05.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Runtime.Serialization.dll">
+      <PackagePath>System.Runtime.Serialization.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll">
+      <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll">
+      <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
+      <Modified>2015-11-24T09:03:56.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll">
+      <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-11-24T09:03:57.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
+      <Modified>2015-11-24T09:03:54.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Security.Claims.dll">
+      <PackagePath>System.Security.Claims.dll</PackagePath>
+      <Modified>2015-11-24T09:04:04.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Security.Principal.dll">
+      <PackagePath>System.Security.Principal.dll</PackagePath>
+      <Modified>2015-11-24T09:04:05.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.ServiceModel.dll">
+      <PackagePath>System.ServiceModel.dll</PackagePath>
+      <Modified>2015-11-24T09:03:55.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll">
+      <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
+      <Modified>2015-11-24T09:03:57.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.ServiceModel.Http.dll">
+      <PackagePath>System.ServiceModel.Http.dll</PackagePath>
+      <Modified>2015-11-24T09:03:57.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll">
+      <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
+      <Modified>2015-11-24T09:03:57.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll">
+      <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
+      <Modified>2015-11-24T09:03:57.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.ServiceModel.Security.dll">
+      <PackagePath>System.ServiceModel.Security.dll</PackagePath>
+      <Modified>2015-11-24T09:03:57.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.ServiceModel.Web.dll">
+      <PackagePath>System.ServiceModel.Web.dll</PackagePath>
+      <Modified>2015-11-24T09:03:56.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll">
+      <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
+      <Modified>2015-11-24T09:03:57.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Text.Encoding.dll">
+      <PackagePath>System.Text.Encoding.dll</PackagePath>
+      <Modified>2015-11-24T09:04:05.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll">
+      <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
+      <Modified>2015-11-24T09:04:05.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Text.RegularExpressions.dll">
+      <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
+      <Modified>2015-11-24T09:04:05.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Threading.dll">
+      <PackagePath>System.Threading.dll</PackagePath>
+      <Modified>2015-11-24T09:04:05.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Threading.Overlapped.dll">
+      <PackagePath>System.Threading.Overlapped.dll</PackagePath>
+      <Modified>2015-11-24T09:03:52.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll">
+      <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
+      <Modified>2015-11-24T09:04:06.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Threading.Tasks.dll">
+      <PackagePath>System.Threading.Tasks.dll</PackagePath>
+      <Modified>2015-11-24T09:04:05.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll">
+      <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
+      <Modified>2015-11-24T09:04:06.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Threading.Timer.dll">
+      <PackagePath>System.Threading.Timer.dll</PackagePath>
+      <Modified>2015-11-24T09:04:06.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Windows.dll">
+      <PackagePath>System.Windows.dll</PackagePath>
+      <Modified>2015-11-24T09:03:56.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Xml.dll">
+      <PackagePath>System.Xml.dll</PackagePath>
+      <Modified>2015-11-24T09:03:56.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Xml.Linq.dll">
+      <PackagePath>System.Xml.Linq.dll</PackagePath>
+      <Modified>2015-11-24T09:03:56.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll">
+      <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
+      <Modified>2015-11-24T09:04:09.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Xml.Serialization.dll">
+      <PackagePath>System.Xml.Serialization.dll</PackagePath>
+      <Modified>2015-11-24T09:03:56.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Xml.XDocument.dll">
+      <PackagePath>System.Xml.XDocument.dll</PackagePath>
+      <Modified>2015-11-24T09:04:06.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Xml.XmlDocument.dll">
+      <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
+      <Modified>2015-11-24T09:03:52.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
+      <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
+      <Modified>2015-11-24T09:03:59.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Test\Simple WPF XAML Calculator\C#\Calculator_v2\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2015-10-23T16:35:10.028</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23302.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\ARM\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23302.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x64\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23302.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x86\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

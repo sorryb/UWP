@@ -1,0 +1,1 @@
+MainPackage=G:\Kits\Kit DotNET\Windows 10\Windows 10 Sample Apps\Win10NewsApp\Windows10News.W10\bin\ARM\Debug\Windows10News.W10_1.3.7.0_ARM_Debug.appx

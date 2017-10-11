@@ -1,0 +1,2 @@
+MainPackage=G:\Kits\Kit DotNET\Windows 10\Windows 10 Sample Apps\Win10NewsApp\Windows10News.W10\bin\x64\Debug\Windows10News.W10_1.3.4.0_x64_Debug.appx
+SymbolPackage=G:\Kits\Kit DotNET\Windows 10\Windows 10 Sample Apps\Win10NewsApp\Windows10News.W10\AppPackages\Windows10News.W10_1.3.4.0_Debug_Test\Windows10News.W10_1.3.4.0_x64_Debug.appxsym

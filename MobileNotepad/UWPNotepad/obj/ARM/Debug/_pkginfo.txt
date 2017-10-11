@@ -1,0 +1,1 @@
+G:\Kits\Kit DotNET\Windows 10\MyWork\UWPNotepad\UWPNotepad\AppPackages\UWPNotepad_1.0.0.0_ARM_Debug_Test\UWPNotepad_1.0.0.0_ARM_Debug.appx
