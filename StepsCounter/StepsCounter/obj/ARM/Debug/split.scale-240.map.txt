@@ -1,0 +1,12 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-240"
+"ResourceDimensions"		"scale-240"
+
+[Files]
+"G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Debug\split.scale-240.pri"			"resources.pri"
+"G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Debug\PackageLayout\Assets\WideLogo.scale-240.png"			"Assets\WideLogo.scale-240.png"
+"G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Debug\PackageLayout\Assets\SquareTile71x71.scale-240.png"			"Assets\SquareTile71x71.scale-240.png"
+"G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Debug\PackageLayout\Assets\SquareTile150x150.scale-240.png"			"Assets\SquareTile150x150.scale-240.png"
+"G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Debug\PackageLayout\Assets\Square44x44Logo.scale-240.png"			"Assets\Square44x44Logo.scale-240.png"
+"G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Debug\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
+"G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Debug\PackageLayout\Assets\BadgeLogo.scale-240.png"			"Assets\BadgeLogo.scale-240.png"

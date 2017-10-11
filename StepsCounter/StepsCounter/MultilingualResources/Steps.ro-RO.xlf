@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="ro-RO" original="STEPS/STRINGS/EN-US/ACTIVATESENSORCORE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1605.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="STEPS/STRINGS/EN-US/ACTIVATESENSORCORE.RESW" datatype="resx">
+        <trans-unit id="LaterButton.Content" translate="yes" xml:space="preserve">
+          <source>Later</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Mai târziu</target>
+        </trans-unit>
+        <trans-unit id="LocationActivationButton.Content" translate="yes" xml:space="preserve">
+          <source>Switch on</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Comutare activat</target>
+        </trans-unit>
+        <trans-unit id="LocationActivationExplanation.Text" translate="yes" xml:space="preserve">
+          <source>This application requires location data in order to work correctly</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Această aplicaţie necesită date de localizare pentru a funcţiona corect</target>
+        </trans-unit>
+        <trans-unit id="LocationActivationTitle.Text" translate="yes" xml:space="preserve">
+          <source>Switch on location data</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Comuta pe datele de localizare</target>
+        </trans-unit>
+        <trans-unit id="MotionDataActivationButton.Content" translate="yes" xml:space="preserve">
+          <source>Switch on</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Comutare activat</target>
+        </trans-unit>
+        <trans-unit id="MotionDataActivationExplanation.Text" translate="yes" xml:space="preserve">
+          <source>This application requires motion data in order to work correctly</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Această aplicaţie necesită date de mișcare în scopul de a funcţiona corect</target>
+        </trans-unit>
+        <trans-unit id="MotionDataActivationTitle.Text" translate="yes" xml:space="preserve">
+          <source>Switch on motion data</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Porniti date de mișcare</target>
+        </trans-unit>
+        <trans-unit id="NeverButton.Content" translate="yes" xml:space="preserve">
+          <source>Do not ask again</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nu se întreabă din nou</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="ro-RO" original="STEPS/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1605.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="STEPS/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="About.Label" translate="yes" xml:space="preserve">
+          <source>about</source>
+          <target state="translated">Despre</target>
+        </trans-unit>
+        <trans-unit id="AboutDescription.Text" translate="yes" xml:space="preserve">
+          <source>The Steps developer sample application demonstrates the Pedometer APIs and Microsoft Lumia SensorCore SDK's Step Counter API functionality.</source>
+          <target state="translated">Aplicatia demonstrează funcţionalitatea pas Counter API pedometru API-uri şi Microsoft Lumia SensorCore SDK-ul.</target>
+        </trans-unit>
+        <trans-unit id="AboutDisclaimer.Text" translate="yes" xml:space="preserve">
+          <source>This developer sample application has been created to provide tips and best practice guidance for software developers and app designers, and may not have all the features you would expect in a commercial product. This application is published in Store as a free software as it may also have value to regular phone users. The source code and more information of this sample can be from GitHub:</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Această aplicaţie de probă dezvoltator a fost creat pentru a oferi sfaturi şi cele mai bune practici de orientare pentru programatori şi designeri app, şi nu pot avea toate caracteristicile de care vă puteţi aştepta de la un produs comercial. Această aplicaţie este publicat în magazin ca un software gratuit, ca el poate avea valoare pentru utilizatorii de telefon regulate. Codul sursă şi mai multe informaţii de această probă poate fi de la GitHub:</target>
+        </trans-unit>
+        <trans-unit id="AboutHyperlinkProject.Content" translate="yes" xml:space="preserve">
+          <source>Steps project in GitHub</source>
+          <target state="translated">Proiectul în GitHub</target>
+        </trans-unit>
+        <trans-unit id="AboutHyperlinkProject.NavigateUri" translate="yes" xml:space="preserve">
+          <source>https://github.com/Microsoft/steps</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">https://github.com/Microsoft/Steps</target>
+        </trans-unit>
+        <trans-unit id="AboutMore.Text" translate="yes" xml:space="preserve">
+          <source>Learn more and get the latest version of this software from:</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Aflaţi mai multe şi pentru a obţine cea mai recentă versiune a acestui software la:</target>
+        </trans-unit>
+        <trans-unit id="AboutPage.Text" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="final">Despre</target>
+        </trans-unit>
+        <trans-unit id="ApplicationSuite.Text" translate="yes" xml:space="preserve">
+          <source>LUMIA SENSORCORE</source>
+          <target state="final">LUMIA SENSORCORE</target>
+        </trans-unit>
+        <trans-unit id="BackButton.Label" translate="yes" xml:space="preserve">
+          <source>back</source>
+          <target state="final">inapoi</target>
+        </trans-unit>
+        <trans-unit id="DetailedSetting.DataCollectionQuality" translate="yes" xml:space="preserve">
+          <source>To get more accurate data you need to enable detailed data collection in Motion data settings. Do you want to open settings now?</source>
+          <target state="final">Pentru a obţine date mai precise trebuie să permiteti culegerea datelor detaliate în setările de date mişcare. Doriţi să deschideţi setările acum?</target>
+        </trans-unit>
+        <trans-unit id="FeatureDisabled.Location" translate="yes" xml:space="preserve">
+          <source>Location has been disabled. Do you want to open Location settings now?</source>
+          <target state="final">Locatia a fost dezactivata. Vrei sa deschizi setările de locație acum?</target>
+        </trans-unit>
+        <trans-unit id="FeatureDisabled.MotionData" translate="yes" xml:space="preserve">
+          <source>Motion data has been disabled. Do you want to open Motion data settings now?</source>
+          <target state="final">Date de deplasare au fost dezactivate. Vrei sa se deschida setările de 'date mişcare' acum?</target>
+        </trans-unit>
+        <trans-unit id="FeatureDisabled.MotionDataSettings" translate="yes" xml:space="preserve">
+          <source>Unfortunately this device does not support biking or moving in vehicle recognition</source>
+          <target state="final">Din pacate acest dispozitiv mobil nu acceptă ciclism sau se deplasează în vehicul de recunoaştere.</target>
+        </trans-unit>
+        <trans-unit id="FeatureDisabled.Title" translate="yes" xml:space="preserve">
+          <source>Information</source>
+          <target state="final" state-qualifier="tm-suggestion">Informaţii</target>
+        </trans-unit>
+        <trans-unit id="FeatureNotSupported.Message" translate="yes" xml:space="preserve">
+          <source>Sorry, the features exemplified by this application are not available on your device. This application requires a Windows 10 device that supports either a Pedometer or Lumia SensorCore Motion.</source>
+          <target state="final">Ne pare rau, caracteristicile exemplificate de această aplicație nu sunt disponibile pe dispozitivul dvs. Această aplicaţie necesită un dispozitiv Windows 10 care acceptă un pedometru sau 'Lumia SensorCore Motion'.</target>
+        </trans-unit>
+        <trans-unit id="FeatureNotSupported.Title" translate="yes" xml:space="preserve">
+          <source>Microsoft SensorCore</source>
+          <target state="final" state-qualifier="mt-suggestion">Microsoft SensorCore</target>
+        </trans-unit>
+        <trans-unit id="NextButton.Label" translate="yes" xml:space="preserve">
+          <source>next</source>
+          <target state="translated">următorul</target>
+        </trans-unit>
+        <trans-unit id="NoLocationOrMotionDataError.Text" translate="yes" xml:space="preserve">
+          <source>This application does not function without location and motion data. The application will be closed.</source>
+          <target state="translated">Această aplicaţie nu funcţionează fără locaţie şi date de mişcare . Aplicația va fi închisă.</target>
+        </trans-unit>
+        <trans-unit id="PinButton.Label" translate="yes" xml:space="preserve">
+          <source>pin</source>
+          <target state="final">fixare pe Desktop</target>
+        </trans-unit>
+        <trans-unit id="RunningSteps.Text" translate="yes" xml:space="preserve">
+          <source>Running Steps</source>
+          <target state="final">Alergat</target>
+        </trans-unit>
+        <trans-unit id="Steps.Text" translate="yes" xml:space="preserve">
+          <source>Steps</source>
+          <target state="final" state-qualifier="tm-suggestion">Pasi</target>
+        </trans-unit>
+        <trans-unit id="TimeWindow.Today" translate="yes" xml:space="preserve">
+          <source>Today</source>
+          <target state="final" state-qualifier="tm-suggestion">Azi</target>
+        </trans-unit>
+        <trans-unit id="TimeWindow.Yesterday" translate="yes" xml:space="preserve">
+          <source>Yesterday</source>
+          <target state="final" state-qualifier="tm-suggestion">Ieri</target>
+        </trans-unit>
+        <trans-unit id="UnpinLabel" translate="yes" xml:space="preserve">
+          <source>unpin</source>
+          <target state="final" state-qualifier="tm-suggestion">anulare fixare</target>
+        </trans-unit>
+        <trans-unit id="VersionText.Text" translate="yes" xml:space="preserve">
+          <source>Version: </source>
+          <target state="final" state-qualifier="mt-suggestion">Versiune: </target>
+        </trans-unit>
+        <trans-unit id="WalkingSteps.Text" translate="yes" xml:space="preserve">
+          <source>Walking Steps</source>
+          <target state="final">Mers normal</target>
+        </trans-unit>
+        <trans-unit id="Calories.Text" translate="yes" xml:space="preserve">
+          <source>Calories</source>
+          <target state="final" state-qualifier="mt-suggestion">Calorii</target>
+        </trans-unit>
+        <trans-unit id="Distance.Text" translate="yes" xml:space="preserve">
+          <source>Distance</source>
+          <target state="final" state-qualifier="tm-suggestion">Distanța</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

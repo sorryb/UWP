@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ro"
+"ResourceDimensions"		"language-ro"
+"ResourceDimensions"		"language-ro-ro"
+
+[Files]
+"G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Debug\split.language-ro.pri"			"resources.pri"

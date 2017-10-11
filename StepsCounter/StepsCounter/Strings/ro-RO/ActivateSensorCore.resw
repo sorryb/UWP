@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LaterButton.Content" xml:space="preserve">
+    <value>Mai târziu</value>
+  </data>
+  <data name="LocationActivationButton.Content" xml:space="preserve">
+    <value>Comutare activat</value>
+  </data>
+  <data name="LocationActivationExplanation.Text" xml:space="preserve">
+    <value>Această aplicaţie necesită date de localizare pentru a funcţiona corect</value>
+  </data>
+  <data name="LocationActivationTitle.Text" xml:space="preserve">
+    <value>Comuta pe datele de localizare</value>
+  </data>
+  <data name="MotionDataActivationButton.Content" xml:space="preserve">
+    <value>Comutare activat</value>
+  </data>
+  <data name="MotionDataActivationExplanation.Text" xml:space="preserve">
+    <value>Această aplicaţie necesită date de mișcare în scopul de a funcţiona corect</value>
+  </data>
+  <data name="MotionDataActivationTitle.Text" xml:space="preserve">
+    <value>Porniti date de mișcare</value>
+  </data>
+  <data name="NeverButton.Content" xml:space="preserve">
+    <value>Nu se întreabă din nou</value>
+  </data>
+</root>

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="SIM.StepsCounter" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US</Language>
+		</Qualifiers>
+		<ResourceMapSubtree name="ActivateSensorCore">
+			<ResourceMapSubtree name="LaterButton">
+				<NamedResource name="Content" uri="ms-resource://SIM.StepsCounter/ActivateSensorCore/LaterButton/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Later</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="LocationActivationButton">
+				<NamedResource name="Content" uri="ms-resource://SIM.StepsCounter/ActivateSensorCore/LocationActivationButton/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Switch on</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="LocationActivationExplanation">
+				<NamedResource name="Text" uri="ms-resource://SIM.StepsCounter/ActivateSensorCore/LocationActivationExplanation/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>This application requires location data in order to work correctly</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="LocationActivationTitle">
+				<NamedResource name="Text" uri="ms-resource://SIM.StepsCounter/ActivateSensorCore/LocationActivationTitle/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Switch on location data</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MotionDataActivationButton">
+				<NamedResource name="Content" uri="ms-resource://SIM.StepsCounter/ActivateSensorCore/MotionDataActivationButton/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Switch on</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MotionDataActivationExplanation">
+				<NamedResource name="Text" uri="ms-resource://SIM.StepsCounter/ActivateSensorCore/MotionDataActivationExplanation/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>This application requires motion data in order to work correctly</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MotionDataActivationTitle">
+				<NamedResource name="Text" uri="ms-resource://SIM.StepsCounter/ActivateSensorCore/MotionDataActivationTitle/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Switch on motion data</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="NeverButton">
+				<NamedResource name="Content" uri="ms-resource://SIM.StepsCounter/ActivateSensorCore/NeverButton/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Do not ask again</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="AboutPage.xbf" uri="ms-resource://SIM.StepsCounter/Files/AboutPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://SIM.StepsCounter/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://SIM.StepsCounter/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReadMe.txt" uri="ms-resource://SIM.StepsCounter/Files/ReadMe.txt">
+				<Candidate type="Path">
+					<Value>ReadMe.txt</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Steps.xr.xml" uri="ms-resource://SIM.StepsCounter/Files/Steps.xr.xml">
+				<Candidate type="Path">
+					<Value>Steps.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/BadgeLogo.png"/>
+				<NamedResource name="Logo.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/SplashScreen.png"/>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Square44x44Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Square44x44Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SquareTile150x150.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/SquareTile150x150.png"/>
+				<NamedResource name="SquareTile71x71.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/SquareTile71x71.png"/>
+				<NamedResource name="steps_background_02.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/steps_background_02.png">
+					<Candidate type="Path">
+						<Value>Assets\steps_background_02.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="steps_background_02_620x300.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/steps_background_02_620x300.png">
+					<Candidate type="Path">
+						<Value>Assets\steps_background_02_620x300.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="steps_launcher.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/steps_launcher.png">
+					<Candidate type="Path">
+						<Value>Assets\steps_launcher.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="steps_launcher150x150.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/steps_launcher150x150.png">
+					<Candidate type="Path">
+						<Value>Assets\steps_launcher150x150.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="steps_launcher310x150.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/steps_launcher310x150.png">
+					<Candidate type="Path">
+						<Value>Assets\steps_launcher310x150.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/WideLogo.png"/>
+				<ResourceMapSubtree name="Images">
+					<NamedResource name="back.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Images/back.png">
+						<Candidate type="Path">
+							<Value>Assets\Images\back.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="next.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Images/next.png">
+						<Candidate type="Path">
+							<Value>Assets\Images\next.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pin-48px.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Images/pin-48px.png">
+						<Candidate type="Path">
+							<Value>Assets\Images\pin-48px.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pushpin.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Images/pushpin.png">
+						<Candidate type="Path">
+							<Value>Assets\Images\pushpin.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="unpin-48px.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Images/unpin-48px.png">
+						<Candidate type="Path">
+							<Value>Assets\Images\unpin-48px.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Tiles">
+					<NamedResource name="150x150.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/150x150.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\150x150.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="30x30.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/30x30.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\30x30.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="IconicTileMediumLarge.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/IconicTileMediumLarge.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\IconicTileMediumLarge.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="IconicTileSmall.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/IconicTileSmall.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\IconicTileSmall.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="small_square0.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/small_square0.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\small_square0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="small_square1.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/small_square1.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\small_square1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="small_square2.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/small_square2.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\small_square2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="small_square3.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/small_square3.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\small_square3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="square.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/square.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\square.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="square0.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/square0.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\square0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="square1.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/square1.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\square1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="square2.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/square2.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\square2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="square3.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/square3.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\square3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="wide0.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/wide0.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\wide0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="wide1.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/wide1.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\wide1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="wide2.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/wide2.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\wide2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="wide3.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/wide3.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\wide3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="wide4.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/wide4.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\wide4.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="wide5.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/wide5.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\wide5.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="wide6.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/wide6.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\wide6.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="wide7.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/wide7.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\wide7.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="wide8.png" uri="ms-resource://SIM.StepsCounter/Files/Assets/Tiles/wide8.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\wide8.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://SIM.StepsCounter/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Simulations">
+				<NamedResource name="long run.txt" uri="ms-resource://SIM.StepsCounter/Files/Simulations/long run.txt">
+					<Candidate type="Path">
+						<Value>Simulations\long run.txt</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="short recording.txt" uri="ms-resource://SIM.StepsCounter/Files/Simulations/short recording.txt">
+					<Candidate type="Path">
+						<Value>Simulations\short recording.txt</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="short walk.txt" uri="ms-resource://SIM.StepsCounter/Files/Simulations/short walk.txt">
+					<Candidate type="Path">
+						<Value>Simulations\short walk.txt</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://SIM.StepsCounter/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="UnpinLabel" uri="ms-resource://SIM.StepsCounter/Resources/UnpinLabel">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>unpin</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="About">
+				<NamedResource name="Label" uri="ms-resource://SIM.StepsCounter/Resources/About/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>about</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutDescription">
+				<NamedResource name="Text" uri="ms-resource://SIM.StepsCounter/Resources/AboutDescription/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The Steps developer sample application demonstrates the Pedometer APIs and Microsoft Lumia SensorCore SDK's Step Counter API functionality.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutDisclaimer">
+				<NamedResource name="Text" uri="ms-resource://SIM.StepsCounter/Resources/AboutDisclaimer/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>This developer sample application has been created to provide tips and best practice guidance for software developers and app designers, and may not have all the features you would expect in a commercial product. This application is published in Store as a free software as it may also have value to regular phone users. The source code and more information of this sample can be from GitHub:</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutHyperlinkProject">
+				<NamedResource name="Content" uri="ms-resource://SIM.StepsCounter/Resources/AboutHyperlinkProject/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Steps project in GitHub</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavigateUri" uri="ms-resource://SIM.StepsCounter/Resources/AboutHyperlinkProject/NavigateUri">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>https://github.com/Microsoft/steps</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutMore">
+				<NamedResource name="Text" uri="ms-resource://SIM.StepsCounter/Resources/AboutMore/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Learn more and get the latest version of this software from:</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutPage">
+				<NamedResource name="Text" uri="ms-resource://SIM.StepsCounter/Resources/AboutPage/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>About</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ApplicationSuite">
+				<NamedResource name="Text" uri="ms-resource://SIM.StepsCounter/Resources/ApplicationSuite/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>LUMIA SENSORCORE</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BackButton">
+				<NamedResource name="Label" uri="ms-resource://SIM.StepsCounter/Resources/BackButton/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>back</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DetailedSetting">
+				<NamedResource name="DataCollectionQuality" uri="ms-resource://SIM.StepsCounter/Resources/DetailedSetting/DataCollectionQuality">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>To get more accurate data you need to enable detailed data collection in Motion data settings. Do you want to open settings now?</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="FeatureDisabled">
+				<NamedResource name="Location" uri="ms-resource://SIM.StepsCounter/Resources/FeatureDisabled/Location">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Location has been disabled. Do you want to open Location settings now?</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MotionData" uri="ms-resource://SIM.StepsCounter/Resources/FeatureDisabled/MotionData">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Motion data has been disabled. Do you want to open Motion data settings now?</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MotionDataSettings" uri="ms-resource://SIM.StepsCounter/Resources/FeatureDisabled/MotionDataSettings">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unfortunately this device does not support biking or moving in vehicle recognition</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Title" uri="ms-resource://SIM.StepsCounter/Resources/FeatureDisabled/Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Information</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="FeatureNotSupported">
+				<NamedResource name="Message" uri="ms-resource://SIM.StepsCounter/Resources/FeatureNotSupported/Message">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Sorry, the features exemplified by this application are not available on your device. This application requires a Windows 10 device that supports either a Pedometer or Lumia SensorCore Motion.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Title" uri="ms-resource://SIM.StepsCounter/Resources/FeatureNotSupported/Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Microsoft SensorCore</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="NextButton">
+				<NamedResource name="Label" uri="ms-resource://SIM.StepsCounter/Resources/NextButton/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>next</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="NoLocationOrMotionDataError">
+				<NamedResource name="Text" uri="ms-resource://SIM.StepsCounter/Resources/NoLocationOrMotionDataError/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>This application does not function without location and motion data. The application will be closed.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PinButton">
+				<NamedResource name="Label" uri="ms-resource://SIM.StepsCounter/Resources/PinButton/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>pin</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="RunningSteps">
+				<NamedResource name="Text" uri="ms-resource://SIM.StepsCounter/Resources/RunningSteps/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Running Steps</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Steps">
+				<NamedResource name="Text" uri="ms-resource://SIM.StepsCounter/Resources/Steps/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Steps</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TimeWindow">
+				<NamedResource name="Today" uri="ms-resource://SIM.StepsCounter/Resources/TimeWindow/Today">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Today</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Yesterday" uri="ms-resource://SIM.StepsCounter/Resources/TimeWindow/Yesterday">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Yesterday</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="VersionText">
+				<NamedResource name="Text" uri="ms-resource://SIM.StepsCounter/Resources/VersionText/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Version: </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WalkingSteps">
+				<NamedResource name="Text" uri="ms-resource://SIM.StepsCounter/Resources/WalkingSteps/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Walking Steps</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

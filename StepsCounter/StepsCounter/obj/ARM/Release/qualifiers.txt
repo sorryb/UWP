@@ -1,0 +1,4 @@
+Scale=240
+Language=EN-US
+Language=RO
+Language=RO-RO

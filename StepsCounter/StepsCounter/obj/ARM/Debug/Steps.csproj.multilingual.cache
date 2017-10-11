@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfCacheFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CacheFile>
+    <FileName>Strings\en-US\Resources.resw</FileName>
+    <Checksum>675423110212325437131247173179229168223217179</Checksum>
+    <ModifiedTime>2016-07-15T17:07:02.6556047</ModifiedTime>
+    <CacheFileType>NeutralResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Strings\en-US\ActivateSensorCore.resw</FileName>
+    <Checksum>119237211234872011846614052185106239111153110</Checksum>
+    <ModifiedTime>2016-01-02T09:39:50</ModifiedTime>
+    <CacheFileType>NeutralResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\Steps.ro-RO.xlf</FileName>
+    <Checksum>247190861802724988131248194218189143158228</Checksum>
+    <ModifiedTime>2016-07-15T17:15:31.6637762+03:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Strings\ro-RO\Resources.resw</FileName>
+    <Checksum>51135215226100134025245168164611222511522</Checksum>
+    <ModifiedTime>2016-07-19T17:06:55.398347+03:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Strings\ro-RO\ActivateSensorCore.resw</FileName>
+    <Checksum>172142432232172352021731031082281647789215</Checksum>
+    <ModifiedTime>2016-07-19T17:06:55.398347+03:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+</ArrayOfCacheFile>

@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SBURTOIULAP</Machine>
+    <WindowsUser>sburtoiu</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>f18c5104-723c-4dbc-8cd6-9f83b83cd162</PackageIdentityName>
+    <IntermediateOutputPath>G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Images\back.png">
+      <PackagePath>Assets\Images\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Images\next.png">
+      <PackagePath>Assets\Images\next.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Images\pin-48px.png">
+      <PackagePath>Assets\Images\pin-48px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Images\pushpin.png">
+      <PackagePath>Assets\Images\pushpin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Images\unpin-48px.png">
+      <PackagePath>Assets\Images\unpin-48px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Square44x44Logo.png">
+      <PackagePath>Assets\Square44x44Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-240.png">
+      <PackagePath>Assets\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\SquareTile150x150.scale-240.png">
+      <PackagePath>Assets\SquareTile150x150.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\SquareTile71x71.scale-240.png">
+      <PackagePath>Assets\SquareTile71x71.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\steps_background_02.png">
+      <PackagePath>Assets\steps_background_02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\steps_background_02_620x300.png">
+      <PackagePath>Assets\steps_background_02_620x300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\steps_launcher.png">
+      <PackagePath>Assets\steps_launcher.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\steps_launcher150x150.png">
+      <PackagePath>Assets\steps_launcher150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\steps_launcher310x150.png">
+      <PackagePath>Assets\steps_launcher310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\150x150.png">
+      <PackagePath>Assets\Tiles\150x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\30x30.png">
+      <PackagePath>Assets\Tiles\30x30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\small_square0.png">
+      <PackagePath>Assets\Tiles\small_square0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\small_square1.png">
+      <PackagePath>Assets\Tiles\small_square1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\small_square2.png">
+      <PackagePath>Assets\Tiles\small_square2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\small_square3.png">
+      <PackagePath>Assets\Tiles\small_square3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\square.png">
+      <PackagePath>Assets\Tiles\square.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\square0.png">
+      <PackagePath>Assets\Tiles\square0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\square1.png">
+      <PackagePath>Assets\Tiles\square1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\square2.png">
+      <PackagePath>Assets\Tiles\square2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\square3.png">
+      <PackagePath>Assets\Tiles\square3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\wide0.png">
+      <PackagePath>Assets\Tiles\wide0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\wide1.png">
+      <PackagePath>Assets\Tiles\wide1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\wide2.png">
+      <PackagePath>Assets\Tiles\wide2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\wide3.png">
+      <PackagePath>Assets\Tiles\wide3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\wide4.png">
+      <PackagePath>Assets\Tiles\wide4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\wide5.png">
+      <PackagePath>Assets\Tiles\wide5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\wide6.png">
+      <PackagePath>Assets\Tiles\wide6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\wide7.png">
+      <PackagePath>Assets\Tiles\wide7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\Tiles\wide8.png">
+      <PackagePath>Assets\Tiles\wide8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\BackgroundTasks.winmd">
+      <PackagePath>BackgroundTasks.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Lumia.Internal.HMBClient.dll">
+      <PackagePath>Lumia.Internal.HMBClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Lumia.Internal.HMBClient.winmd">
+      <PackagePath>Lumia.Internal.HMBClient.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Lumia.Sense.dll">
+      <PackagePath>Lumia.Sense.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Lumia.Sense.winmd">
+      <PackagePath>Lumia.Sense.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\ReadMe.txt">
+      <PackagePath>ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Simulations\long run.txt">
+      <PackagePath>Simulations\long run.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Simulations\short recording.txt">
+      <PackagePath>Simulations\short recording.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Simulations\short walk.txt">
+      <PackagePath>Simulations\short walk.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Steps.dll">
+      <PackagePath>Steps.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\bin\ARM\Release\ilc\Steps.exe">
+      <PackagePath>Steps.exe</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x64\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x86\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About.Label" xml:space="preserve">
+    <value>Despre</value>
+  </data>
+  <data name="AboutDescription.Text" xml:space="preserve">
+    <value>Aplicatia demonstrează funcţionalitatea pas Counter API pedometru API-uri şi Microsoft Lumia SensorCore SDK-ul.</value>
+  </data>
+  <data name="AboutDisclaimer.Text" xml:space="preserve">
+    <value>Această aplicaţie de probă dezvoltator a fost creat pentru a oferi sfaturi şi cele mai bune practici de orientare pentru programatori şi designeri app, şi nu pot avea toate caracteristicile de care vă puteţi aştepta de la un produs comercial. Această aplicaţie este publicat în magazin ca un software gratuit, ca el poate avea valoare pentru utilizatorii de telefon regulate. Codul sursă şi mai multe informaţii de această probă poate fi de la GitHub:</value>
+  </data>
+  <data name="AboutHyperlinkProject.Content" xml:space="preserve">
+    <value>Proiectul în GitHub</value>
+  </data>
+  <data name="AboutHyperlinkProject.NavigateUri" xml:space="preserve">
+    <value>https://github.com/Microsoft/Steps</value>
+  </data>
+  <data name="AboutMore.Text" xml:space="preserve">
+    <value>Aflaţi mai multe şi pentru a obţine cea mai recentă versiune a acestui software la:</value>
+  </data>
+  <data name="AboutPage.Text" xml:space="preserve">
+    <value>Despre</value>
+  </data>
+  <data name="ApplicationSuite.Text" xml:space="preserve">
+    <value>LUMIA SENSORCORE</value>
+  </data>
+  <data name="BackButton.Label" xml:space="preserve">
+    <value>inapoi</value>
+  </data>
+  <data name="DetailedSetting.DataCollectionQuality" xml:space="preserve">
+    <value>Pentru a obţine date mai precise trebuie să permiteti culegerea datelor detaliate în setările de date mişcare. Doriţi să deschideţi setările acum?</value>
+  </data>
+  <data name="FeatureDisabled.Location" xml:space="preserve">
+    <value>Locatia a fost dezactivata. Vrei sa deschizi setările de locație acum?</value>
+  </data>
+  <data name="FeatureDisabled.MotionData" xml:space="preserve">
+    <value>Date de deplasare au fost dezactivate. Vrei sa se deschida setările de 'date mişcare' acum?</value>
+  </data>
+  <data name="FeatureDisabled.MotionDataSettings" xml:space="preserve">
+    <value>Din pacate acest dispozitiv mobil nu acceptă ciclism sau se deplasează în vehicul de recunoaştere.</value>
+  </data>
+  <data name="FeatureDisabled.Title" xml:space="preserve">
+    <value>Informaţii</value>
+  </data>
+  <data name="FeatureNotSupported.Message" xml:space="preserve">
+    <value>Ne pare rau, caracteristicile exemplificate de această aplicație nu sunt disponibile pe dispozitivul dvs. Această aplicaţie necesită un dispozitiv Windows 10 care acceptă un pedometru sau 'Lumia SensorCore Motion'.</value>
+  </data>
+  <data name="FeatureNotSupported.Title" xml:space="preserve">
+    <value>Microsoft SensorCore</value>
+  </data>
+  <data name="NextButton.Label" xml:space="preserve">
+    <value>următorul</value>
+  </data>
+  <data name="NoLocationOrMotionDataError.Text" xml:space="preserve">
+    <value>Această aplicaţie nu funcţionează fără locaţie şi date de mişcare . Aplicația va fi închisă.</value>
+  </data>
+  <data name="PinButton.Label" xml:space="preserve">
+    <value>fixare pe Desktop</value>
+  </data>
+  <data name="RunningSteps.Text" xml:space="preserve">
+    <value>Alergat</value>
+  </data>
+  <data name="Steps.Text" xml:space="preserve">
+    <value>Pasi</value>
+  </data>
+  <data name="TimeWindow.Today" xml:space="preserve">
+    <value>Azi</value>
+  </data>
+  <data name="TimeWindow.Yesterday" xml:space="preserve">
+    <value>Ieri</value>
+  </data>
+  <data name="UnpinLabel" xml:space="preserve">
+    <value>anulare fixare</value>
+  </data>
+  <data name="VersionText.Text" xml:space="preserve">
+    <value>Versiune: </value>
+  </data>
+  <data name="WalkingSteps.Text" xml:space="preserve">
+    <value>Mers normal</value>
+  </data>
+  <data name="Calories.Text" xml:space="preserve">
+    <value>Calorii</value>
+  </data>
+  <data name="Distance.Text" xml:space="preserve">
+    <value>Distanța</value>
+  </data>
+</root>

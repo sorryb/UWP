@@ -1,0 +1,3 @@
+Language=RO
+Language=RO-RO
+Scale=240

@@ -1,0 +1,2 @@
+G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\BackgroundTasks\BackgroundTasks.csproj;arm
+G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\Steps.csproj;arm

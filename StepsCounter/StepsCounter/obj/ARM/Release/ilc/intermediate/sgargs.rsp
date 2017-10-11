@@ -1,0 +1,8 @@
+/out:"G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Release\ilc\intermediate\\"
+/ref:"G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Private\\"
+/ref:"G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Release\ilc\in\\"
+/ref:"G:\Kits\Kit DotNET\Windows 10\MyWork\Steps Counter\Steps\obj\ARM\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib

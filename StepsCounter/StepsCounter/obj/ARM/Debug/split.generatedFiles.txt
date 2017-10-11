@@ -1,0 +1,6 @@
+obj\ARM\Debug\split.pri
+obj\ARM\Debug\split.map.txt
+obj\ARM\Debug\split.language-ro.pri
+obj\ARM\Debug\split.language-ro.map.txt
+obj\ARM\Debug\split.scale-240.pri
+obj\ARM\Debug\split.scale-240.map.txt

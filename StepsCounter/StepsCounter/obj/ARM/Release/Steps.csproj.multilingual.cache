@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<ArrayOfCacheFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CacheFile>
+    <FileName>Strings\en-US\Resources.resw</FileName>
+    <Checksum>25221610584196193222455286945073240129153</Checksum>
+    <ModifiedTime>2016-06-27T15:31:06.7424362</ModifiedTime>
+    <CacheFileType>NeutralResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Strings\en-US\ActivateSensorCore.resw</FileName>
+    <Checksum>119237211234872011846614052185106239111153110</Checksum>
+    <ModifiedTime>2016-01-02T09:39:50</ModifiedTime>
+    <CacheFileType>NeutralResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\Steps.ro-RO.xlf</FileName>
+    <Checksum>25344137841434223220220701748320386229</Checksum>
+    <ModifiedTime>2016-06-27T15:38:02.9937194+03:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage>
+      <string>2 resource strings with existing translations were updated and applied to the XLIFF file.  The related translations are unchanged, but should be checked to ensure they are still valid for the updated source string.</string>
+    </WarningMessage>
+  </CacheFile>
+  <CacheFile>
+    <FileName>Strings\ro-RO\Resources.resw</FileName>
+    <Checksum>58182246140250240154187194242175105247200139149</Checksum>
+    <ModifiedTime>2016-06-27T15:38:02.9957212+03:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Strings\ro-RO\ActivateSensorCore.resw</FileName>
+    <Checksum>6210248245196631812321221725515412716421976</Checksum>
+    <ModifiedTime>2016-06-27T15:38:02.9957212+03:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\Steps.ro.xlf</FileName>
+    <Checksum>84163171972161271771382523415813821986237137</Checksum>
+    <ModifiedTime>2016-06-27T15:38:03.0317364+03:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage>
+      <string>3 resource strings with existing translations were updated and applied to the XLIFF file.  The related translations are unchanged, but should be checked to ensure they are still valid for the updated source string.</string>
+    </WarningMessage>
+  </CacheFile>
+  <CacheFile>
+    <FileName>Strings\ro\Resources.resw</FileName>
+    <Checksum>6912192723917623116112410811130731885568</Checksum>
+    <ModifiedTime>2016-06-27T15:38:03.0337392+03:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Strings\ro\ActivateSensorCore.resw</FileName>
+    <Checksum>5106136141931691850526086235233134193194</Checksum>
+    <ModifiedTime>2016-06-27T15:38:03.0337392+03:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+</ArrayOfCacheFile>
