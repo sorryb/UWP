@@ -1,4 +1,4 @@
 					
 						---imformations--
 
-1.StepsCounter- A mobile apps to cout steps.
+1.StepsCounter- A mobile apps to count steps.
