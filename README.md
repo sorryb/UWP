@@ -1,6 +1,9 @@
 # UWP
 Windows 10  UWP Applications :
 -Calculator	
--MobileNotepad	
+
+-MobileNotepad
+
 -StepsCounter	
+
 -WindowsNews	
